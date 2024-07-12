@@ -1,6 +1,6 @@
 # Hi, I'm Powell Habwe! 👋
 
-I've been immersed in programming for about 3 and a half years now, and I love diving deep into building robust software solutions. 
+I've been immersed in programming for about 3 and a half years now, and building robust software solutions.Or rather awesome software that people can use. 
 Here's a snapshot of what I bring to the table:
 
 - 💻 Proficient in **Python** , **Django**,, **NOdeJs**,, **ExpressJs**,, **Laravel**, with a strong foundation in backend web development.
