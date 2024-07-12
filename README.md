@@ -11,4 +11,4 @@ Here's a snapshot of what I bring to the table:
 
 I'm enthusiastic about exploring new challenges and contributing to impactful software projects. Open to exciting software development opportunities anywhere!
 
-Let's connect and build something amazing together! 🚀
+Let's connect! 🚀
