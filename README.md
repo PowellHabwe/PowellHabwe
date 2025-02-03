@@ -9,6 +9,6 @@ Here's a snapshot of what I bring to the table:
 - ☁️ Familiar with **Google Cloud** and **AWS** for cloud infrastructure management, ensuring scalable and reliable deployments.
 - 🛠️ Utilizing **Apache** and **Nginx** for server configurations to optimize application performance.
 
-I'm enthusiastic about exploring new challenges and contributing to impactful software projects. Open to exciting software development opportunities anywhere!
+ I'm open to exciting software development opportunities anywhere!
 
 Let's connect! 🚀
